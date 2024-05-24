@@ -1,0 +1,40 @@
+{
+    "testCaseName": "hd",
+    "testSuiteName": "Test Cases",
+    "channelName": "Mobile",
+    "steps": [
+        {
+            "actionName": "Wait",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Wait in ms",
+            "metaEditable": true,
+            "dispMeta": "1000",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToWidgetEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": true
+            },
+            "actualMessage": {
+                "UUID": "8496c6c3-6b6a-588c-c2f4-889ebc730129",
+                "messageType": "Wait",
+                "messageData": {
+                    "widgetType": "Wait",
+                    "metadata": {
+                        "waitTimeMS": "1000"
+                    }
+                }
+            },
+            "codeNotReady": false
+        }
+    ],
+    "_currentForm": "",
+    "timeout": 0,
+    "dataFileName": "hd_data",
+    "dataFileVarName": "testcaseData_1716530451591",
+    "datasetName": "dataset",
+    "appName": "SampleAFQA",
+    "usedBy": {}
+}

@@ -366,6 +366,14 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "kfAppInfo": {
+        "ebe5a9b6-bb00-43e6-8657-f0ae873a8af4": {
+            "appName": "SampleAFQA",
+            "baseId": "06515c9d-bc0c-44d6-be03-1b736708af34",
+            "id": "06515c9d-bc0c-44d6-be03-1b736708af34",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "9.5.331",
     "lastmodifiedtime": "1716527880452",
     "location": "false",
